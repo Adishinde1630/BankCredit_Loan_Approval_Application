@@ -27,4 +27,3 @@ Notes:
 - The app will try to load a trained model from `outputs/best_model.joblib` and a list of features from `outputs/selected_features.txt` for predictions. If these files are missing, the Predictions page will show an error.
 - EDA Correlation will use `outputs/correlation_matrix.csv` if present; otherwise it computes correlation from the dataset.
 
-If you want, I can: run the app locally here (if you want me to start a terminal command), or update the app to show specific EDA charts copied exactly from your notebook.
